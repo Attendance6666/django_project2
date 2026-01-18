@@ -1,7 +1,0 @@
-Total lines: 4
-Total words: 4
-Word frequency:
-asdadsfaf: 1
-dasd: 1
-s: 1
-sds: 1
